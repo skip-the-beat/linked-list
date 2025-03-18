@@ -117,5 +117,3 @@ int main(){
     print(head); 
 }
 
-// implement conditions for del at head and tail in delatpos
-// also,delatpos not working properly
